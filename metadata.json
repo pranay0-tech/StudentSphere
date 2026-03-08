@@ -1,0 +1,7 @@
+{
+  "name": "StudentSphere",
+  "description": "An anonymous social platform designed for students to share thoughts, confessions, and advice freely.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
