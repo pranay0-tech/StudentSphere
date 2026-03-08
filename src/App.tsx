@@ -70,7 +70,7 @@ const MainApp = () => {
           <div className="w-8 h-8 bg-[#6C63FF] rounded-xl flex items-center justify-center">
             <span className="text-white font-bold text-xs">S</span>
           </div>
-          <h1 className="text-lg font-bold tracking-tight">StudentSphere</h1>
+          <h1 className="text-lg font-bold tracking-tight">Privora</h1>
         </div>
       </header>
 
